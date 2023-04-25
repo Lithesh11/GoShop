@@ -1,0 +1,9 @@
+# GoShop
+
+
+
+#Dependicies
+
+
+
+#Features
