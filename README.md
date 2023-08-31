@@ -1,5 +1,5 @@
 # GoShop
-An E-commerce Application which has a Dedicated Backend and has a admin page who controls all teh aspects of the website.
+An E-commerce Application that has a Dedicated Backend and has an admin page that controls all the aspects of the website.
 
 
 
